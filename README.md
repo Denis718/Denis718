@@ -2,6 +2,7 @@
 Sou um analista de sistemas
 - 🔭 Trabalhando em projetos de back-end usando Python e Django 
 - 🌱 Aprendendo padrões de projeto em profundidade 
+- ♘  Apreciador de jogos de estratégia e puzzles
 
 <br>
 ## Expertise 
