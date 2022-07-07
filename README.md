@@ -1,6 +1,4 @@
 Estudante de Análise e Desenvolvimento de Sistemas - FATEC
-- 🔭 Trabalhando em projetos de back-end usando Python e Django 
-- ♘  Apreciador de jogos de estratégia e puzzles
 
 <br>
 ## Expertise 
