@@ -1,4 +1,4 @@
-Estudante de Análise e Desenvolvimento de Sistemas - FATEC
+Tecnólogo em Análise e Desenvolvimento de Sistemas - FATEC
 
 <br>
 ## Expertise 
